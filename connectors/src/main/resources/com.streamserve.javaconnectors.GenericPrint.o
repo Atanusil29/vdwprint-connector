@@ -1,0 +1,21 @@
+<Property title="File path" visible="1">
+    <Initial></Initial>
+    <ToolTip></ToolTip>
+    <Control>
+        <String/>
+    </Control>
+</Property>
+<Property title="Report key" visible="1">
+    <Initial></Initial>
+    <ToolTip></ToolTip>
+    <Control>
+        <String/>
+    </Control>
+</Property>
+<Property title="Printer name" visible="1">
+    <Initial></Initial>
+    <ToolTip></ToolTip>
+    <Control>
+        <String/>
+    </Control>
+</Property>
